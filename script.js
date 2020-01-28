@@ -13,7 +13,7 @@ function App() {
 
 ReactDOM.render(
     <App />,
-    document.getElementById('#app-root')
+    document.querySelector('#app-root')
 );  
 
 
