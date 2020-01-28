@@ -1,0 +1,37 @@
+address {
+    margin-bottom: 20px;
+  }
+  
+  a:link {
+   color: black;
+  }
+  
+  a:visited {
+    color: dimgrey;
+  }
+  
+  body {
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 125%;
+    background-color:aliceblue;
+  }
+  
+  h6 {
+    font-size: 80%;
+    font-weight: 300 ;
+    margin-bottom: 0px;
+    margin-top: 0px;
+  }
+  
+  .jobSpace {
+    margin-top: 50px;
+  }
+  
+  h2 {
+    background-color: lightgrey;
+    margin: 0 ;
+    margin-top: 20px;
+    color: white;
+    text-indent: 12px;
+  }
+  
