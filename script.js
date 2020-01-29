@@ -25,7 +25,7 @@ function App() {
   
           <h2>Experience</h2>
   
-            <div class="jobSpace">
+            <div className="jobSpace">
           
               <h4><em>Wayco Middle School</em> - Teacher's Assistant</h4>
                 <h6>2009-2010</h6>
@@ -38,7 +38,7 @@ function App() {
                 </ul>
             </div>
   
-            <div class="jobSpace">
+            <div className="jobSpace">
               <h4><em>North Middle School</em> - English Teacher</h4>
                 <h6>2010-2015</h6>
   
